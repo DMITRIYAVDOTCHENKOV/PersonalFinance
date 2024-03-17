@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jfreechart-1.0.19.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>
