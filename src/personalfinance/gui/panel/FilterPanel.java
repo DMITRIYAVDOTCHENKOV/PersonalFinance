@@ -1,12 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package personalfinance.gui.panel;
 
-import java.awt.Dimension;
-import java.awt.FlowLayout;
 import personalfinance.gui.MainButton;
 import personalfinance.gui.MainFrame;
 import personalfinance.gui.handler.FilterHandler;
@@ -14,6 +8,8 @@ import personalfinance.saveload.SaveData;
 import personalfinance.settings.Format;
 import personalfinance.settings.HandlerCode;
 import personalfinance.settings.Style;
+
+import java.awt.*;
 
 /**
  *

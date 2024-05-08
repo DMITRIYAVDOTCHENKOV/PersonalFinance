@@ -1,20 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package personalfinance.gui.handler;
 
-import java.awt.event.ActionEvent;
 import personalfinance.gui.MainFrame;
-import personalfinance.gui.panel.AccountPanel;
-import personalfinance.gui.panel.ArticlePanel;
-import personalfinance.gui.panel.CurrencyPanel;
-import personalfinance.gui.panel.OverviewPanel;
-import personalfinance.gui.panel.StatisticsPanel;
-import personalfinance.gui.panel.TransactionPanel;
-import personalfinance.gui.panel.TransferPanel;
+import personalfinance.gui.panel.*;
 import personalfinance.settings.HandlerCode;
+
+import java.awt.event.ActionEvent;
 
 /**
  *

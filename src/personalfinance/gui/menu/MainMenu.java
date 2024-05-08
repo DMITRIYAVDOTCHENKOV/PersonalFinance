@@ -1,32 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package personalfinance.gui.menu;
 
-import java.awt.Toolkit;
-import java.awt.event.KeyEvent;
-import javax.swing.ButtonGroup;
-import javax.swing.ImageIcon;
-import javax.swing.JMenu;
-import javax.swing.JMenuBar;
-import javax.swing.JMenuItem;
-import javax.swing.JRadioButtonMenuItem;
-import javax.swing.KeyStroke;
 import personalfinance.gui.EnableEditDelete;
 import personalfinance.gui.MainFrame;
 import personalfinance.gui.Refresh;
-import personalfinance.gui.handler.Handler;
-import personalfinance.gui.handler.MenuEditHandler;
-import personalfinance.gui.handler.MenuFileHandler;
-import personalfinance.gui.handler.MenuHelpHandler;
-import personalfinance.gui.handler.MenuSettingsHandler;
-import personalfinance.gui.handler.MenuViewHandler;
+import personalfinance.gui.handler.*;
 import personalfinance.settings.HandlerCode;
 import personalfinance.settings.Settings;
 import personalfinance.settings.Style;
 import personalfinance.settings.Text;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.KeyEvent;
 
 /**
  *

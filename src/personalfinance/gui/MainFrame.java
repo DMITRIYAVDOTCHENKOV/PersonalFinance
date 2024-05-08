@@ -1,15 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package personalfinance.gui;
 
-import java.awt.GridBagConstraints;
-import java.awt.GridBagLayout;
-import javax.swing.JFrame;
-import javax.swing.SwingUtilities;
-import javax.swing.WindowConstants;
 import personalfinance.gui.handler.MainToolBarHandler;
 import personalfinance.gui.handler.MainWindowHandler;
 import personalfinance.gui.menu.MainMenu;
@@ -19,6 +9,9 @@ import personalfinance.gui.panel.RightPanel;
 import personalfinance.gui.toolbar.MainToolBar;
 import personalfinance.settings.Style;
 import personalfinance.settings.Text;
+
+import javax.swing.*;
+import java.awt.*;
 
 /**
  *

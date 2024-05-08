@@ -1,12 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package personalfinance.gui.dialog;
 
-import javax.swing.JComboBox;
-import javax.swing.JTextField;
 import personalfinance.exception.ModelException;
 import personalfinance.gui.MainFrame;
 import personalfinance.model.Common;
@@ -15,6 +9,8 @@ import personalfinance.settings.Format;
 import personalfinance.settings.Settings;
 import personalfinance.settings.Style;
 import personalfinance.settings.Text;
+
+import javax.swing.*;
 
 /**
  *

@@ -190,7 +190,7 @@ final public class Text {
             data.put("DIALOG_ABOUT_TITLE", "О программе");
             data.put("ABOUT", "<body style='font-size: 120%; text-align: center; width: 350px;'>"
                     + "<h1>Домашняя бухгалтерия</h1><p><img src='file:images/main.png' /></p>"
-                    + "<br />\"Создание крупного проекта на Java с Нуля\""
+                    + "<br />\"итоговый проект\""
                     + "<p>Copyright " + Calendar.getInstance().get(Calendar.YEAR) + " </p></body>");
         }
         else {

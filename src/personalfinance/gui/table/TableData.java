@@ -1,15 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package personalfinance.gui.table;
 
-import java.awt.Point;
-import javax.swing.ImageIcon;
-import javax.swing.JPopupMenu;
-import javax.swing.JTable;
-import javax.swing.ListSelectionModel;
 import personalfinance.gui.Refresh;
 import personalfinance.gui.handler.FunctionsHandler;
 import personalfinance.gui.menu.TablePopupMenu;
@@ -18,6 +9,9 @@ import personalfinance.gui.table.renderer.MainTableCellRenderer;
 import personalfinance.gui.table.renderer.TableHeaderIconRenderer;
 import personalfinance.settings.Style;
 import personalfinance.settings.Text;
+
+import javax.swing.*;
+import java.awt.*;
 
 /**
  *

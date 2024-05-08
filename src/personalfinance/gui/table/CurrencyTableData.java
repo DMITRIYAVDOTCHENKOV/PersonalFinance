@@ -1,19 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package personalfinance.gui.table;
 
-import java.awt.Component;
-import javax.swing.ImageIcon;
-import javax.swing.JTable;
 import personalfinance.gui.handler.FunctionsHandler;
 import personalfinance.gui.table.model.CurrencyTableModel;
 import personalfinance.gui.table.renderer.MainTableCellRenderer;
 import personalfinance.model.Currency;
 import personalfinance.settings.Style;
 import personalfinance.settings.Text;
+
+import javax.swing.*;
+import java.awt.*;
 
 /**
  *
